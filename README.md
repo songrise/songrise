@@ -1,7 +1,8 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songrise&show_icons=true&theme=dracula)
+### Greetings!👋 I am Songrise (Ruixiang JIANG)
+🌱 I’m currently learning computer graphics.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songrise&show_icons=true&theme=dracula
 )](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songrise&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songrise&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **songrise/songrise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
