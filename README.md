@@ -1,8 +1,8 @@
 ### Greetings!👋 I am Songrise (Ruixiang JIANG)
 <!-- 🌱 I’m currently learning computer graphics.   -->
-I am a final year undergraduate student majoring in computing at The Hong Kong Polytechnic University.
+I am a final-year undergraduate student at Hong Kong Polytechnic University majoring in computing.
 
-Currently, I am doing research at CityU, Hong Kong with Mr. WANG Can under the supervision of Dr. LIAO Jing on scene stylization.
+I am currently conducting scene stylization research with Mr. WANG Can at CityU in Hong Kong, under the supervision of Dr. LIAO Jing.
 
 For more information about me, please visit me at [j-rx.com](https://j-rx.com).
 
