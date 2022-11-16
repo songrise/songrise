@@ -1,5 +1,10 @@
 ### Greetings!👋 I am Songrise (Ruixiang JIANG)
 <!-- 🌱 I’m currently learning computer graphics.   -->
+I am a final year undergraduate student majoring in computing at The Hong Kong Polytechnic University.
+
+Currently, I am doing research at CityU, Hong Kong with Mr. WANG Can under the supervision of Dr. LIAO Jing on scene stylization.
+
+For more information about me, please visit me at [j-rx.com](https://j-rx.com).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songrise&show_icons=true&theme=dracula
 )](https://github.com/anuraghazra/github-readme-stats)  
