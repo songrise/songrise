@@ -1,8 +1,11 @@
 ### Greetings!👋 I am Songrise (Ruixiang JIANG)
 <!-- 🌱 I’m currently learning computer graphics.   -->
-I am a final-year undergraduate student at Hong Kong Polytechnic University majoring in computing.
+I am a final-year undergraduate student at Hong Kong Polytechnic University majoring in computing, my research interset include CG/CV/multimodal AI.
 
-I am currently conducting scene stylization research with Mr. WANG Can at CityU in Hong Kong, under the supervision of Dr. LIAO Jing.
+Current I am a research assistant at PolyU under supervision of Prof. Changwen Chen.
+
+I was a research intern at CityU in Hong Kong, under the supervision of Dr. LIAO Jing, where we focused on 3D AIGC.
+
 
 For more information about me, please visit me at [j-rx.com](https://j-rx.com).
 
