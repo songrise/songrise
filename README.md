@@ -1,13 +1,12 @@
 ### Greetings!👋 I am Songrise (Ruixiang JIANG)
 <!-- 🌱 I’m currently learning computer graphics.   -->
-I am a final-year undergraduate student at Hong Kong Polytechnic University majoring in computing, my research interset include CG/CV/multimodal AI.
 
-Current I am a research assistant at PolyU under supervision of Prof. Changwen Chen.
+I am a first-year phd candidate at PolyU under supervision of Prof. Changwen Chen, my research interset include CG/CV/multimodal AI.
 
 I was a research intern at CityU in Hong Kong, under the supervision of Dr. LIAO Jing, where we focused on 3D AIGC.
 
 
-For more information about me, please visit me at [j-rx.com](https://j-rx.com).
+For more information about me, please visit my homepage at [j-rx.com](https://j-rx.com).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songrise&show_icons=true&theme=dracula
 )](https://github.com/anuraghazra/github-readme-stats)  
