@@ -1,7 +1,7 @@
 ### Greetings!👋 I am Songrise (Ruixiang JIANG)
 <!-- 🌱 I’m currently learning computer graphics.   -->
 
-I am a first-year phd candidate at PolyU under supervision of Prof. Changwen Chen, I was a research intern at CityU in Hong Kong, under the supervision of Dr. LIAO Jing, where we focused on 3D content generation.
+I am a phd candidate at PolyU under supervision of Prof. Changwen Chen, I was a research intern at CityU in Hong Kong, under the supervision of Dr. LIAO Jing, where we focused on 3D content generation.
 
 My Current Research Focus:
 - Computational Aesthetics
