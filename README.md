@@ -5,14 +5,13 @@ I am a first-year phd candidate at PolyU under supervision of Prof. Changwen Che
 
 My Current Research Focus:
 - Computational Aesthetics
-- Generative Arts
+- Generative Art
 - Computer Vision & Graphics
-- Human-centered Computing
-- Digital Humanities
+- Philosophical Fundation of AI
 
 
 
-For more information about me, please visit my homepage at [j-rx.com](https://j-rx.com).
+For more information about me, please visit my homepage at [songrise.github.io](https://songrise.github.io).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songrise&show_icons=true&theme=dracula
 )](https://github.com/anuraghazra/github-readme-stats)  
